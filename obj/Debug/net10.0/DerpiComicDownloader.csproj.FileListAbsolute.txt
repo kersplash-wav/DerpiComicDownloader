@@ -1,0 +1,14 @@
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\DerpiComicDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\DerpiComicDownloader.AssemblyInfoInputs.cache
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\DerpiComicDownloader.AssemblyInfo.cs
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\DerpiComicDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Bread\source\repos\DerpiComicDownloader\bin\Debug\net10.0\DerpiComicDownloader.exe
+C:\Users\Bread\source\repos\DerpiComicDownloader\bin\Debug\net10.0\DerpiComicDownloader.deps.json
+C:\Users\Bread\source\repos\DerpiComicDownloader\bin\Debug\net10.0\DerpiComicDownloader.runtimeconfig.json
+C:\Users\Bread\source\repos\DerpiComicDownloader\bin\Debug\net10.0\DerpiComicDownloader.dll
+C:\Users\Bread\source\repos\DerpiComicDownloader\bin\Debug\net10.0\DerpiComicDownloader.pdb
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\DerpiComicDownloader.dll
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\refint\DerpiComicDownloader.dll
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\DerpiComicDownloader.pdb
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\DerpiComicDownloader.genruntimeconfig.cache
+C:\Users\Bread\source\repos\DerpiComicDownloader\obj\Debug\net10.0\ref\DerpiComicDownloader.dll
