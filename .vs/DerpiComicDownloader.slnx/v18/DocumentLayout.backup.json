@@ -31,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,18 +55,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NetworkService.cs",
-              "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\NetworkService.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Services\\NetworkService.cs",
-              "ToolTip": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\NetworkService.cs",
-              "RelativeToolTip": "..\\Core\\Services\\NetworkService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T01:01:41.898Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\Program.cs",
@@ -77,6 +65,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-23T10:26:36.64Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\NetworkService.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Services\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\NetworkService.cs",
+              "RelativeToolTip": "..\\Core\\Services\\NetworkService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T01:01:41.898Z"
             },
             {
               "$type": "Document",

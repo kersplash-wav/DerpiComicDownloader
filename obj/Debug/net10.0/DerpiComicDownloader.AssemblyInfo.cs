@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DerpiComicDownloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8898279685bceb59a08417c73069d205fef6b060")]
 [assembly: System.Reflection.AssemblyProductAttribute("DerpiComicDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DerpiComicDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,21 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{394A9854-7854-B1E9-B1DC-2A7302576FFA}|DerpiComicDownloader.csproj|c:\\users\\bread\\source\\repos\\derpicomicdownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{394A9854-7854-B1E9-B1DC-2A7302576FFA}|DerpiComicDownloader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5731C0E-5492-25B1-FA4D-E8F72BDD01C6}|..\\Core\\Core.csproj|c:\\users\\bread\\source\\repos\\core\\services\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5731C0E-5492-25B1-FA4D-E8F72BDD01C6}|..\\Core\\Core.csproj|c:\\users\\bread\\source\\repos\\core\\services\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{394A9854-7854-B1E9-B1DC-2A7302576FFA}|DerpiComicDownloader.csproj|c:\\users\\bread\\source\\repos\\derpicomicdownloader\\derpicomicdownloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{394A9854-7854-B1E9-B1DC-2A7302576FFA}|DerpiComicDownloader.csproj|solutionrelative:derpicomicdownloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5731C0E-5492-25B1-FA4D-E8F72BDD01C6}|..\\Core\\Core.csproj|c:\\users\\bread\\source\\repos\\core\\services\\globalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{394A9854-7854-B1E9-B1DC-2A7302576FFA}|DerpiComicDownloader.csproj|c:\\users\\bread\\source\\repos\\derpicomicdownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394A9854-7854-B1E9-B1DC-2A7302576FFA}|DerpiComicDownloader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{394A9854-7854-B1E9-B1DC-2A7302576FFA}|DerpiComicDownloader.csproj|c:\\users\\bread\\source\\repos\\derpicomicdownloader\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,19 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalService.cs",
-              "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\GlobalService.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Services\\GlobalService.cs",
-              "ToolTip": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\GlobalService.cs",
-              "RelativeToolTip": "..\\Core\\Services\\GlobalService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T16:27:23.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -68,43 +47,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NetworkService.cs",
-              "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\NetworkService.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Services\\NetworkService.cs",
-              "ToolTip": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\NetworkService.cs",
-              "RelativeToolTip": "..\\Core\\Services\\NetworkService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T01:01:41.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InputService.cs",
-              "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\InputService.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Services\\InputService.cs",
-              "ToolTip": "C:\\Users\\Bread\\source\\repos\\Core\\Services\\InputService.cs",
-              "RelativeToolTip": "..\\Core\\Services\\InputService.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAcwGsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T18:52:04.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DerpiComicDownloader.csproj",
               "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\DerpiComicDownloader.csproj",
               "RelativeDocumentMoniker": "DerpiComicDownloader.csproj",
               "ToolTip": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\DerpiComicDownloader.csproj",
               "RelativeToolTip": "DerpiComicDownloader.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-23T11:45:01.05Z"
+              "WhenOpened": "2026-08-23T11:45:01.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Core.cs",
               "DocumentMoniker": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\Core.cs",
               "RelativeDocumentMoniker": "Core.cs",

@@ -1,30 +1,11 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {
-      "Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "compile": {
-          "bin/placeholder/Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Core.dll": {}
-        }
-      }
-    }
+    "net10.0": {}
   },
-  "libraries": {
-    "Core/1.0.0": {
-      "type": "project",
-      "path": "../Core/Core.csproj",
-      "msbuildProject": "../Core/Core.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net10.0": [
-      "Core >= 1.0.0"
-    ]
+    "net10.0": []
   },
   "packageFolders": {
     "C:\\Users\\Bread\\.nuget\\packages\\": {},
@@ -33,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\DerpiComicDownloader.csproj",
-      "projectName": "DerpiComicDownloader",
-      "projectPath": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\DerpiComicDownloader.csproj",
+      "projectUniqueName": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\Core.csproj",
+      "projectName": "Core",
+      "projectPath": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\Core.csproj",
       "packagesPath": "C:\\Users\\Bread\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Bread\\source\\repos\\DerpiComicDownloader\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,11 +39,7 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {
-            "C:\\Users\\Bread\\source\\repos\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Bread\\source\\repos\\Core\\Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
